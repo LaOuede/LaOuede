@@ -10,5 +10,5 @@
 </a>
 <a href="https://linkedin.com/in/gwenola-leroux"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gwenola-leroux" height="30" width="40"/> 
 </a>
-<a href="https://discordapp.com/users/692156635644428348"><img alt="Laouede's Discord" width="28px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+<a href="https://discordapp.com/users/692156635644428348"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/discord.svg" alt="Laouede's Discord" height="30" width="40"/>
 </a>
