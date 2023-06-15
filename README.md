@@ -1,6 +1,6 @@
 ### Hi there, I'm Gwen 👋
 
-- 💻 I’m a programming student at &nbsp;<a target="_blank" href="https://42quebec.com/">42-Québec</a> --- intra : <b>gle-roux</b> ...
+- 💻 I’m a programming student at &nbsp;<a target="_blank" href="https://42quebec.com/">42-Québec</a> --- intra : <b>gle-roux</b>
 - ... 🔭 currently working on Minishell
 - ... 🌱 learning C and Python languages
 - 💬 Connect with me in 🇫🇷 🇬🇧
