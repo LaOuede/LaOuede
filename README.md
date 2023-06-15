@@ -8,7 +8,7 @@
 ### 📫 How to reach me:   
 <a href="mailto:gwenola.leroux@gmail.com?"><img align="left" src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="linkedin.com/in/gwenola-leroux"><img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/discord.svg" alt="gwenola-leroux" height="30" width="40"/> 
+<a href="linkedin.com/in/gwenola-leroux"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gwenola-leroux" height="30" width="40"/> 
 </a>
 <a href="https://discordapp.com/users/692156635644428348"><img alt="Laouede's Discord" width="28px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
