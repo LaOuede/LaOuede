@@ -6,7 +6,7 @@
 - 💬 Connect with me in 🇫🇷 🇬🇧
 
 ### 📫 How to reach me:   
-<a href="https://www.discordapp.com/users/692659001220923442">
+<a href="https://https://discord.com/channels/@me">
   <img align="left" alt="Laouede's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="mailto:gwenola.leroux@@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>
