@@ -5,7 +5,7 @@ I'm an enthusiastic newcomer to programming, embracing the journey of discovery 
 
 ---
 
-<h3 align="center">About me</h3>
+<h3 align="left">About me</h3>
 
 - 💻 I’m a programming student at &nbsp;<a target="_blank" href="https://42quebec.com/">42 Québec</a> --- intra : <b>gle-roux</b>
 - ... 🔭 currently working on Minishell
@@ -16,7 +16,7 @@ I'm an enthusiastic newcomer to programming, embracing the journey of discovery 
  
 --- 
 
-<h3 align="center">Connect with me !</3>
+<h3 align="left">Connect with me !</3>
  
 <p align="center">
 <a href="https://linkedin.com/in/gwenola-leroux"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gwenola-leroux" height="30" width="40"/> 
@@ -27,14 +27,16 @@ I'm an enthusiastic newcomer to programming, embracing the journey of discovery 
 
 ---
  
-<h3 align="center">Languages and Tools</3>
+<h3 align="left">Languages and Tools</3>
 
+<p align="center">
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://github.com/LaOuede/devicon/blob/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/> </a>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/LaOuede/devicon/blob/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a>
 <a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="https://github.com/LaOuede/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/> </a>
 <a href="https://github.com/LaOuede" target="_blank" rel="noreferrer"> <img src="https://github.com/LaOuede/devicon/blob/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://github.com/LaOuede/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
 <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> <img src="https://github.com/LaOuede/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/> </a>
+</p>
 
 ---
   
