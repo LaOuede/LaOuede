@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Gwenola</h1>
 <h3 align="center">Welcome on my Github 🦊</h3>
 
-I'm an enthusiastic newcomer to programming, embracing the journey of discovery and soaking up knowledge like a sponge! I enjoy the endless possibilities of coding, one line at a time, and I'm eager to create innovative solutions that make a positive impact on our communities.
+<p align="center">I'm an enthusiastic newcomer to programming, embracing the journey of discovery and soaking up knowledge like a sponge! I enjoy the endless possibilities of coding, one line at a time, and I'm eager to create innovative solutions that make a positive impact on our communities.</p>
 
 ---
 
@@ -16,7 +16,7 @@ I'm an enthusiastic newcomer to programming, embracing the journey of discovery 
  
 --- 
 
-<h3 align="left">Connect with me !</3>
+<h3 align="left">Connect with me !</h3>
  
 <p align="center">
 <a href="https://linkedin.com/in/gwenola-leroux"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gwenola-leroux" height="30" width="40"/> 
@@ -27,7 +27,7 @@ I'm an enthusiastic newcomer to programming, embracing the journey of discovery 
 
 ---
   
-<h3 align="left">My 42 projects</3>
+<h3 align="left">My 42 projects</h3>
 <div align="center">
 
 <a href="https://github.com/LaOuede/libft">![42 Badge](https://github.com/LaOuede/42-project-badges/blob/main/badges/libfte.png)</a>
@@ -53,11 +53,11 @@ I'm an enthusiastic newcomer to programming, embracing the journey of discovery 
 -->
 
 Cheers to [Byaliego](https://github.com/byaliego/42-project-badges) for the badges ! 🙌
-</div>
- 
+</div> 
+
 ---
  
-<h3 align="left">Languages and Tools</3>
+<h3 align="left">Languages and Tools</h3>
 
 <p align="center">
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://github.com/LaOuede/devicon/blob/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/> </a>
@@ -70,7 +70,7 @@ Cheers to [Byaliego](https://github.com/byaliego/42-project-badges) for the badg
 
 ---
 
-<h3 align="left">Learning resources</3>
+<h3 align="left">Learning resources</h3>
 
 <p align="center">
 <a href="https://42quebec.com" target="_blank" rel="noreferrer"> <img src="https://img2.gratispng.com/20180420/osw/kisspng-0-school-college-42-silicon-valley-university-5ad9e24250ea87.8161795615242286743314.jpg" alt="42" width="40" height="40"/> </a>
