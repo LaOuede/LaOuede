@@ -78,7 +78,3 @@ Cheers to [Byaliego](https://github.com/byaliego/42-project-badges) for the badg
 <a href="https://pll.harvard.edu/course/cs50-introduction-computer-science" target="_blank" rel="noreferrer"> <img src="https://github.com/LaOuede/LaOuede/assets/114024436/7ab01ae3-73ff-484f-b5e4-510bb79b0ef7" alt="cs50" width="40" height="40"/> </a>
 </p>
 
-
-
----
-
