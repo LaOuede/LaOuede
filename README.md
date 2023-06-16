@@ -1,5 +1,12 @@
-### Hi there, I'm Gwen 👋
+<h1 align="center">Hi there, I'm Gwenola</h1>
+<h3 align="center">Welcome on my Github 🦊</h3>
 
+
+I'm an enthusiastic newcomer to programming, embracing the journey of discovery and soaking up knowledge like a sponge! I enjoy the endless possibilities of coding, one line at a time, and I'm eager to create innovative solutions that make a positive impact on our communities.
+
+---
+
+### About me
 - 💻 I’m a programming student at &nbsp;<a target="_blank" href="https://42quebec.com/">42-Québec</a> --- intra : <b>gle-roux</b>
 - ... 🔭 currently working on Minishell
 - ... 🌱 learning C and Python languages
