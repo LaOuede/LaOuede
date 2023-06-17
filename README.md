@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Gwenola</h1>
+<h1 align="center">Hi there, I'm Gwen</h1>
 <h3 align="center">Welcome on my Github 🦊</h3>
 
 <p align="center">I'm an enthusiastic newcomer to programming, embracing the journey of discovery and soaking up knowledge like a sponge! I enjoy the endless possibilities of coding, one line at a time, and I'm eager to create innovative solutions that make a positive impact on our communities.</p>
