@@ -68,6 +68,10 @@ Cheers to [Byaliego](https://github.com/byaliego/42-project-badges) for the badg
 <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> <img src="https://github.com/LaOuede/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/> </a>
 </p>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaOuede" alt="LaOuede" style="width:25%">
+</div>
+
 ---
 
 <h3 align="left">Learning resources</h3>
