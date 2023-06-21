@@ -32,7 +32,7 @@
 
 <a href="https://github.com/LaOuede/libft">![42 Badge](https://github.com/LaOuede/42-project-badges/blob/main/badges/libfte.png)</a>
 <a href="https://github.com/LaOuede/printf">![42 Badge](https://github.com/LaOuede/42-project-badges/blob/main/badges/ft_printfe.png)</a>
-<a href="https://https://github.com/LaOuede/get_next_line">![42 Badge](https://github.com/LaOuede/42-project-badges/blob/main/badges/get_next_linee.png)</a>
+<a href="https://github.com/LaOuede/get_next_line">![42 Badge](https://github.com/LaOuede/42-project-badges/blob/main/badges/get_next_linee.png)</a>
 ![42 Badge](https://github.com/LaOuede/42-project-badges/blob/main/badges/born2beroote.png)
 <a href="https://github.com/LaOuede/Push_Swap">![42 Badge](https://github.com/LaOuede/42-project-badges/blob/main/badges/push_swape.png)</a>
 <a href="https://github.com/LaOuede/Minitalk">![42 Badge](https://github.com/LaOuede/42-project-badges/blob/main/badges/minitalke.png)</a>
