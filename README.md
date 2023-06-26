@@ -43,13 +43,10 @@ Cheers to [Byaliego](https://github.com/byaliego/42-project-badges) for the badg
 
 ---
   
-<h3 align="left">Ongoing projects</h3>
+<h3 align="left">Ongoing project</h3>
 <div align="center">
  
 <a href="https://github.com/LaOuede/Minishell">![42 Badge](https://github.com/LaOuede/42-project-badges/blob/main/badges/minishelle.png)</a>
-<a href="https://https://github.com/LaOuede/cs50_Python_my_work"> <img src="https://github.com/LaOuede/LaOuede/assets/114024436/f42648b4-8e65-4d54-ac14-895838530e41" alt="CS50_Python" width="135" height="135"/> </a>
-<a href="https://https://github.com/LaOuede/cs50_ItCS_my_work"> <img src="https://github.com/LaOuede/LaOuede/assets/114024436/21b6acb8-9b4e-4e54-ac64-4e47c1087943" alt="CS50_ItCS" width="135" height="135"/> </a>
-
  
  <!-- 
 <a href="">![42 Badge](https://github.com/LaOuede/42-project-badges/blob/main/badges/philisopherse.png)</a>
