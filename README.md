@@ -30,10 +30,9 @@
 <h3 align="left">Ongoing project</h3>
 <div align="center">
  
-<a href="https://github.com/LaOuede/Minishell">![42 Badge](https://github.com/LaOuede/42-project-badges/blob/main/badges/minishelle.png)</a>
+<a href="https://github.com/LaOuede/Philosophers">![42 Badge](https://github.com/LaOuede/42-project-badges/blob/main/badges/philisopherse.png)</a>
  
  <!-- 
-<a href="">![42 Badge](https://github.com/LaOuede/42-project-badges/blob/main/badges/philisopherse.png)</a>
 <a href="">![42 Badge](https://github.com/LaOuede/42-project-badges/blob/main/badges/netpracticee.png)</a>
 <a href="">![42 Badge](https://github.com/LaOuede/42-project-badges/blob/main/badges/cube3de.png)</a>
 <a href="">![42 Badge](https://github.com/LaOuede/42-project-badges/blob/main/badges/minirte.png)</a>
@@ -57,6 +56,7 @@
 <a href="https://github.com/LaOuede/Push_Swap">![42 Badge](https://github.com/LaOuede/42-project-badges/blob/main/badges/push_swape.png)</a>
 <a href="https://github.com/LaOuede/Minitalk">![42 Badge](https://github.com/LaOuede/42-project-badges/blob/main/badges/minitalke.png)</a>
 <a href="https://github.com/LaOuede/FdF">![42 Badge](https://github.com/LaOuede/42-project-badges/blob/main/badges/fdfe.png)</a>
+<a href="https://github.com/LaOuede/Minishell">![42 Badge](https://github.com/LaOuede/42-project-badges/blob/main/badges/minishelle.png)</a>
 
 Cheers to [Byaliego](https://github.com/byaliego/42-project-badges) for the badges ! 🙌
 </div>
