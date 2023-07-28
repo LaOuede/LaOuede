@@ -32,6 +32,7 @@
  
 <a href="https://github.com/LaOuede/Philosophers">![42 Badge](https://github.com/byaliego/42-project-badges/blob/main/badges/philosopherse.png)</a>
 <a href="https://github.com/LaOuede/MiniRT">![42 Badge](https://github.com/LaOuede/42-project-badges/blob/main/badges/minirte.png)</a>
+<a href="https://github.com/LaOuede/NetPractice">![42 Badge](https://github.com/LaOuede/42-project-badges/blob/main/badges/netpracticee.png)</a>
  
  <!-- 
 <a href="">![42 Badge](https://github.com/LaOuede/42-project-badges/blob/main/badges/netpracticee.png)</a>
