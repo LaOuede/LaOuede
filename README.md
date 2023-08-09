@@ -8,7 +8,7 @@
 <h3 align="left">About me</h3>
 
 - 💻 I’m a programming student at &nbsp;<a target="_blank" href="https://42quebec.com/">42 Québec</a> --- intra : <b>gle-roux</b>
-- ... 🔭 currently working on &nbsp;<a target="_blank" href="https://github.com/LaOuede/MiniRT">MiniRT</a> and &nbsp;<a target="_blank" href="https://github.com/LaOuede/NetPractice">NetPractice</a>
+- ... 🔭 currently working on &nbsp;<a target="_blank" href="https://github.com/LaOuede/MiniRT">MiniRT</a>
 - ... 🌱 learning C and Python languages
 - 💬 Connect with me in 🇫🇷 🇬🇧
 - 📫 Reach me at <b>gwenola.leroux@gmail.com<b>
@@ -31,10 +31,9 @@
 <div align="center">
  
 <a href="https://github.com/LaOuede/MiniRT">![42 Badge](https://github.com/LaOuede/42-project-badges/blob/main/badges/minirte.png)</a>
-<a href="https://github.com/LaOuede/NetPractice">![42 Badge](https://github.com/LaOuede/42-project-badges/blob/main/badges/netpracticee.png)</a>
  
  <!-- 
-<a href="">![42 Badge](https://github.com/LaOuede/42-project-badges/blob/main/badges/netpracticee.png)</a>
+<a href="https://github.com/LaOuede/NetPractice">![42 Badge](https://github.com/LaOuede/42-project-badges/blob/main/badges/netpracticee.png)</a>
 <a href="">![42 Badge](https://github.com/LaOuede/42-project-badges/blob/main/badges/cube3de.png)</a>
 <a href="">![42 Badge](https://github.com/LaOuede/42-project-badges/blob/main/badges/minirte.png)</a>
 <a href="">![42 Badge](https://github.com/LaOuede/42-project-badges/blob/main/badges/cppe.png)</a>
