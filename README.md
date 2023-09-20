@@ -8,7 +8,7 @@
 <h3 align="left">About me</h3>
 
 - 💻 I’m a programming student at &nbsp;<a target="_blank" href="https://42quebec.com/">42 Québec</a> --- intra : <b>gle-roux</b>
-- ... 🔭 currently working on &nbsp;<a target="_blank" href="https://github.com/LaOuede/MiniRT">MiniRT</a> and &nbsp;<a target="_blank" href="https://github.com/LaOuede/cpp">c++</a>
+- ... 🔭 currently working on &nbsp;<a target="_blank" href="https://github.com/LaOuede/MiniRT">MiniRT</a> and &nbsp;<a target="_blank" href="https://github.com/LaOuede/cpp">C++</a>
 - ... 🌱 learning C, C++ and Python languages
 - 💬 Connect with me in 🇫🇷 🇬🇧
 - 📫 Reach me at <b>gwenola.leroux@gmail.com<b>
