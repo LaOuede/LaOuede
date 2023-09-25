@@ -85,10 +85,6 @@ Cheers to [Byaliego](https://github.com/byaliego/42-project-badges) for the badg
  <a href="https://www.notion.so" target="_blank" rel="noreferrer"> <img src="https://github.com/LaOuede/LaOuede/assets/114024436/0f432438-547a-43b8-afbd-64e577ac2fb1" alt="Notion" width="40" height="40"/> </a>
 </p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaOuede" alt="LaOuede" style="width:25%">
-</div>
-
 ---
 
 <h3 align="left">Learning resources</h3>
