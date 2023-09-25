@@ -61,6 +61,14 @@ Cheers to [Byaliego](https://github.com/byaliego/42-project-badges) for the badg
 </div>
 
 ---
+  
+<h3 align="left">Other project</h3>
+<div align="center">
+
+<a href="https://github.com/LaOuede/Spectrality_GameJamQC2023">![Spectrability](https://github.com/LaOuede/LaOuede/assets/114024436/fb17fb76-6283-4ae4-87fa-1329d6499e24)</a>
+</div>
+
+---
  
 <h3 align="left">Languages and Tools</h3>
 
