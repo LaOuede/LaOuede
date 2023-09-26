@@ -8,7 +8,7 @@
 <h3 align="left">About me</h3>
 
 - 💻 I’m a programming student at &nbsp;<a target="_blank" href="https://42quebec.com/">42 Québec</a> --- intra : <b>gle-roux</b>
-- ... 🔭 currently working on &nbsp;<a target="_blank" href="https://github.com/LaOuede/MiniRT">MiniRT</a> and &nbsp;<a target="_blank" href="https://github.com/LaOuede/cpp">C++</a>
+- ... 🔭 currently working on &nbsp;<a target="_blank" href="https://github.com/LaOuede/cpp">C++</a>
 - ... 🌱 learning C, C++ and Python languages
 - 💬 Connect with me in 🇫🇷 🇬🇧
 - 📫 Reach me at <b>gwenola.leroux@gmail.com<b>
@@ -27,10 +27,9 @@
 
 ---
   
-<h3 align="left">Ongoing projects</h3>
+<h3 align="left">Ongoing project</h3>
 <div align="center">
  
-<a href="https://github.com/LaOuede/MiniRT">![42 Badge](https://github.com/LaOuede/42-project-badges/blob/main/badges/minirte.png)</a>
 <a href="https://github.com/LaOuede/cpp">![42 Badge](https://github.com/LaOuede/42-project-badges/blob/main/badges/cppe.png)</a>
  
  <!-- 
@@ -47,15 +46,16 @@
 <h3 align="left">My 42 projects</h3>
 <div align="center">
 
-<a href="https://github.com/LaOuede/libft">![42 Badge](https://github.com/LaOuede/42-project-badges/blob/main/badges/libfte.png)</a>
-<a href="https://github.com/LaOuede/printf">![42 Badge](https://github.com/LaOuede/42-project-badges/blob/main/badges/ft_printfe.png)</a>
-<a href="https://github.com/LaOuede/get_next_line">![42 Badge](https://github.com/LaOuede/42-project-badges/blob/main/badges/get_next_linee.png)</a>
-<a href="https://github.com/LaOuede/Born2BeRoot">![42 Badge](https://github.com/LaOuede/42-project-badges/blob/main/badges/born2beroote.png)</a>
-<a href="https://github.com/LaOuede/Push_Swap">![42 Badge](https://github.com/LaOuede/42-project-badges/blob/main/badges/push_swape.png)</a>
-<a href="https://github.com/LaOuede/Minitalk">![42 Badge](https://github.com/LaOuede/42-project-badges/blob/main/badges/minitalke.png)</a>
-<a href="https://github.com/LaOuede/FdF">![42 Badge](https://github.com/LaOuede/42-project-badges/blob/main/badges/fdfe.png)</a>
-<a href="https://github.com/LaOuede/Minishell">![42 Badge](https://github.com/LaOuede/42-project-badges/blob/main/badges/minishelle.png)</a>
+<a href="https://github.com/LaOuede/MiniRT">![42 Badge](https://github.com/LaOuede/42-project-badges/blob/main/badges/minirte.png)</a>
 <a href="https://github.com/LaOuede/Philosophers">![42 Badge](https://github.com/byaliego/42-project-badges/blob/main/badges/philosopherse.png)</a>
+<a href="https://github.com/LaOuede/Minishell">![42 Badge](https://github.com/LaOuede/42-project-badges/blob/main/badges/minishelle.png)</a>
+<a href="https://github.com/LaOuede/FdF">![42 Badge](https://github.com/LaOuede/42-project-badges/blob/main/badges/fdfe.png)</a>
+<a href="https://github.com/LaOuede/Minitalk">![42 Badge](https://github.com/LaOuede/42-project-badges/blob/main/badges/minitalke.png)</a>
+<a href="https://github.com/LaOuede/Push_Swap">![42 Badge](https://github.com/LaOuede/42-project-badges/blob/main/badges/push_swape.png)</a>
+<a href="https://github.com/LaOuede/Born2BeRoot">![42 Badge](https://github.com/LaOuede/42-project-badges/blob/main/badges/born2beroote.png)</a>
+<a href="https://github.com/LaOuede/get_next_line">![42 Badge](https://github.com/LaOuede/42-project-badges/blob/main/badges/get_next_linee.png)</a>
+<a href="https://github.com/LaOuede/printf">![42 Badge](https://github.com/LaOuede/42-project-badges/blob/main/badges/ft_printfe.png)</a>
+<a href="https://github.com/LaOuede/libft">![42 Badge](https://github.com/LaOuede/42-project-badges/blob/main/badges/libfte.png)</a>
 
 Cheers to [Byaliego](https://github.com/byaliego/42-project-badges) for the badges ! 🙌
 </div>
