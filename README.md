@@ -33,8 +33,6 @@
 <a href="https://github.com/LaOuede/cpp">![42 Badge](https://github.com/LaOuede/42-project-badges/blob/main/badges/cppe.png)</a>
  
  <!-- 
-<a href="">![42 Badge](https://github.com/LaOuede/42-project-badges/blob/main/badges/minirte.png)</a>
-<a href="">![42 Badge](https://github.com/LaOuede/42-project-badges/blob/main/badges/cppe.png)</a>
 <a href="">![42 Badge](https://github.com/LaOuede/42-project-badges/blob/main/badges/ft_irce.png)</a>
 <a href="">![42 Badge](https://github.com/LaOuede/42-project-badges/blob/main/badges/inceptione.png)</a>
 <a href="">![42 Badge](https://github.com/LaOuede/42-project-badges/blob/main/badges/ft_transcendencee.png)</a>
