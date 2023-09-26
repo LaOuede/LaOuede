@@ -65,14 +65,12 @@ Cheers to [Byaliego](https://github.com/byaliego/42-project-badges) for the badg
 <h3 align="left">Other project</h3>
 <div align="center">
 
-<a href="https://github.com/LaOuede/Spectrality_GameJamQC2023" target="_blank" rel="noreferrer"> <img src="https://github.com/LaOuede/LaOuede/assets/114024436/d7ceb002-ec8d-47f2-a6c3-1dc826036d76" alt="Spectrality" width="150" height="120"/> </a>
-
-[Spectrality](https://itch.io/jam/game-jam-de-quebec-2023/rate/2279658)
+<a href="https://github.com/LaOuede/Spectrality_GameJamQC2023">![Spectrality](https://github.com/LaOuede/Spectrality_GameJamQC2023/blob/main/Spectrality.png)</a>
 
 </div>
 
 ---
- 
+
 <h3 align="left">Languages and Tools</h3>
 
 <p align="center">
