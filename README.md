@@ -7,7 +7,7 @@
 
 <h3 align="left">About me</h3>
 
-- 💻 I’m a programming student at &nbsp;<a target="_blank" href="https://42quebec.com/">42 Québec</a> --- intra : <b>gle-roux</b>
+- 💻 I’m a programming student at &nbsp;<a target="_blank" href="https://42quebec.com/">42 Québec</a>
 - ... 🔭 currently working on &nbsp;<a target="_blank" href="https://github.com/LaOuede/cpp">C++</a> and &nbsp;<a target="_blank" href="https://github.com/LaOuede/Pro-Bono">Au-delà du code</a>
 - ... 🌱 learning C, C++ and Python languages
 - 💬 Connect with me in 🇫🇷 🇬🇧
