@@ -31,7 +31,7 @@
 <div align="center">
  
 <a href="https://github.com/LaOuede/cpp">![42 Badge](https://github.com/LaOuede/42-project-badges/blob/main/badges/cppe.png)</a>
-<a href="https://github.com/LaOuede/Pro-Bono">![42 Quebec](https://github.com/LaOuede/LaOuede/assets/114024436/864eb074-bcf1-45ea-b78c-dfc13c3d4305)</a>
+<a href="https://github.com/LaOuede/Pro-Bono">![42 Quebec](https://github.com/LaOuede/Pro-Bono/blob/main/42Quebec.png)</a>
  
  <!-- 
 <a href="">![42 Badge](https://github.com/LaOuede/42-project-badges/blob/main/badges/ft_irce.png)</a>
