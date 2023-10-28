@@ -73,13 +73,13 @@ Cheers to [Byaliego](https://github.com/byaliego/42-project-badges) for the badg
 <h3 align="left">Languages and Tools</h3>
 
 <p align="center">
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://github.com/LaOuede/devicon/blob/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/> </a>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/LaOuede/devicon/blob/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a>
-<a href="https://cplusplus.com" target="_blank" rel="noreferrer"> <img src="https://github.com/LaOuede/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://github.com/LaOuede/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
-<a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> <img src="https://github.com/LaOuede/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/> </a>
-<a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="https://github.com/LaOuede/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/> </a>
-<a href="https://github.com/LaOuede" target="_blank" rel="noreferrer"> <img src="https://github.com/LaOuede/devicon/blob/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/> </a>
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" alt="bash" width="40" height="40"/> </a>
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" alt="C" width="40" height="40"/> </a>
+<a href="https://cplusplus.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="C++" width="40" height="40"/> </a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="Python" width="40" height="40"/> </a>
+<a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" alt="VSCode" width="40" height="40"/> </a>
+<a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="Git" width="40" height="40"/> </a>
+<a href="https://github.com/LaOuede" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="GitHub" width="40" height="40"/> </a>
 <a href="https://www.atlassian.com/fr/software/jira" target="_blank" rel="noreferrer"> <img src="https://github.com/LaOuede/devicon/blob/master/icons/jira/jira-original.svg" alt="Jira" width="40" height="40"/> </a>
 <a href="https://www.notion.so" target="_blank" rel="noreferrer"> <img src="https://github.com/LaOuede/LaOuede/assets/114024436/0f432438-547a-43b8-afbd-64e577ac2fb1" alt="Notion" width="40" height="40"/> </a>
 </p>
