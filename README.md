@@ -12,6 +12,7 @@
 - ... 🌱 learning C, C++ and Python languages
 - 💬 Connect with me in 🇫🇷 🇬🇧
 - 📫 Reach me at <b>gwenola.leroux@gmail.com<b>
+- 🎲 Always open to talk about boardgames
 
  
 --- 
