@@ -8,7 +8,7 @@
 <h3 align="left">About me</h3>
 
 - 💻 I’m a programming student at &nbsp;<a target="_blank" href="https://42quebec.com/">42 Québec</a>
-- ... 🔭 currently working on &nbsp;<a target="_blank" href="https://github.com/LaOuede/cpp">C++</a> and &nbsp;<a target="_blank" href="https://github.com/LaOuede/Pro-Bono">Au-delà du code</a>
+- ... 🔭 currently working on &nbsp;<a target="_blank" href="https://github.com/LaOuede/42-ft_irc">C++</a> and &nbsp;<a target="_blank" href="https://github.com/LaOuede/Pro-Bono">Au-delà du code</a>
 - ... 🌱 learning C, C++ and Python languages
 - 💬 Connect with me in 🇫🇷 🇬🇧
 - 🎲 Always open to talk about boardgames
@@ -31,11 +31,10 @@
 <h3 align="left">Ongoing projects</h3>
 <div align="center">
  
-<a href="https://github.com/LaOuede/cpp">![42 Badge](https://github.com/LaOuede/42-project-badges/blob/main/badges/cppe.png)</a>
+<a href="">![42 Badge](https://github.com/LaOuede/42-project-badges/blob/main/badges/ft_irce.png)</a>
 <a href="https://github.com/LaOuede/Pro-Bono">![CentrePediatrieSociale](https://github.com/LaOuede/Pro-Bono/blob/main/CentrePediatrieSociale.png)</a>
  
  <!-- 
-<a href="">![42 Badge](https://github.com/LaOuede/42-project-badges/blob/main/badges/ft_irce.png)</a>
 <a href="">![42 Badge](https://github.com/LaOuede/42-project-badges/blob/main/badges/inceptione.png)</a>
 <a href="">![42 Badge](https://github.com/LaOuede/42-project-badges/blob/main/badges/ft_transcendencee.png)</a>
 <a href="">![42 Badge](https://github.com/LaOuede/42-project-badges/blob/main/badges/common_coree.png)</a>
@@ -46,6 +45,7 @@
 <h3 align="left">My 42 projects</h3>
 <div align="center">
 
+<a href="https://github.com/LaOuede/cpp">![42 Badge](https://github.com/LaOuede/42-project-badges/blob/main/badges/cppe.png)</a>
 <a href="https://github.com/LaOuede/MiniRT">![42 Badge](https://github.com/LaOuede/42-project-badges/blob/main/badges/minirte.png)</a>
 <a href="https://github.com/LaOuede/Philosophers">![42 Badge](https://github.com/byaliego/42-project-badges/blob/main/badges/philosopherse.png)</a>
 <a href="https://github.com/LaOuede/Minishell">![42 Badge](https://github.com/LaOuede/42-project-badges/blob/main/badges/minishelle.png)</a>
