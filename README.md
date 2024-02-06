@@ -31,8 +31,8 @@
 <h3 align="left">Ongoing projects</h3>
 <div align="center">
  
-<a href="">![42 Badge](https://github.com/LaOuede/42-project-badges/blob/main/badges/inceptione.png)</a>
-<a href="">![42 Badge](https://github.com/LaOuede/42-project-badges/blob/main/badges/ft_transcendencee.png)</a>
+<a href="https://github.com/LaOuede/42-inception">![42 Badge](https://github.com/LaOuede/42-project-badges/blob/main/badges/inceptione.png)</a>
+<a href="https://github.com/LaOuede/42-ft_transcendence">![42 Badge](https://github.com/LaOuede/42-project-badges/blob/main/badges/ft_transcendencee.png)</a>
 <a href="https://github.com/LaOuede/Pro-Bono">![CentrePediatrieSociale](https://github.com/LaOuede/Pro-Bono/blob/main/CentrePediatrieSociale.png)</a>
  
  <!-- 
