@@ -41,7 +41,7 @@
 
 ---
 
-<h3 align="left">Most recent project completed</h3>
+<h3 align="left">Latest project completed</h3>
 
 <a href="https://github.com/LaOuede/42-ft_irc">![42 Badge](https://github.com/LaOuede/42-project-badges/blob/main/badges/ft_irce.png)</a>
 
