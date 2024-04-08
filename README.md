@@ -11,7 +11,7 @@
 - ... 🔭 currently working on &nbsp;<a target="_blank" href="https://github.com/LaOuede/42-ft_transcendence">ft_transcendence</a> and &nbsp;<a target="_blank" href="https://github.com/LaOuede/Pro-Bono">Au-delà du code</a>
 - ... 🌱 learning C, C++ and Python languages
 - 💬 Connect with me in 🇫🇷 🇬🇧
-- 🎲 Always open to talk about boardgames
+- 🎲 Always open to talk about boardgames and Magic: The Gathering ✨
 - 📫 Reach me at <b>gwenola.leroux@gmail.com<b>
 
  
