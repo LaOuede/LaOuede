@@ -3,12 +3,18 @@
 
 <p align="center">I'm an enthusiastic newcomer to programming, embracing the journey of discovery and soaking up knowledge like a sponge! I enjoy the endless possibilities of coding, one line at a time, and I'm eager to create innovative solutions that make a positive impact on our communities.</p>
 
+<div align="center">
+ <p align="center">I have successfully completed the Common Core curriculum at 42. This has equipped me with a robust set of programming skills, particularly in C, C++, and system programming. As I transition from the Common Core to specialized branches, I am eager to apply my acquired knowledge in more focused areas of technology and development.</p>
+
+ <a href="">![42 Badge](https://github.com/LaOuede/42-project-badges/blob/main/badges/common_coree.png)</a>
+</div>
+
 ---
 
 <h3 align="left">About me</h3>
 
 - 💻 I’m a programming student at &nbsp;<a target="_blank" href="https://42quebec.com/">42 Québec</a>
-- ... 🔭 currently working on &nbsp;<a target="_blank" href="https://github.com/LaOuede/42-ft_transcendence">ft_transcendence</a> and &nbsp;<a target="_blank" href="https://github.com/LaOuede/Pro-Bono">Au-delà du code</a>
+- ... 🔭 currently working on &nbsp;<a target="_blank" href="https://github.com/LaOuede/Pro-Bono">Au-delà du code</a>
 - ... 🌱 learning C, C++ and Python languages
 - 💬 Connect with me in 🇫🇷 🇬🇧
 - 🎲 Always open to talk about boardgames 🎲 and Magic: The Gathering ✨
@@ -26,23 +32,19 @@
 </a>
 </p>
 
+
 ---
   
 <h3 align="left">Ongoing projects</h3>
 <div align="center">
  
-<a href="https://github.com/LaOuede/42-ft_transcendence">![42 Badge](https://github.com/LaOuede/42-project-badges/blob/main/badges/ft_transcendencee.png)</a>
 <a href="https://github.com/LaOuede/Pro-Bono">![CentrePediatrieSociale](https://github.com/LaOuede/Pro-Bono/blob/main/CentrePediatrieSociale.png)</a>
- 
- <!-- 
-<a href="">![42 Badge](https://github.com/LaOuede/42-project-badges/blob/main/badges/common_coree.png)</a>
--->
 
 ---
 
 <h3 align="left">Latest project completed</h3>
 
-<a href="https://github.com/LaOuede/42-Inception">![42 Badge](https://github.com/LaOuede/42-project-badges/blob/main/badges/inceptione.png)</a>
+<a href="https://github.com/LaOuede/42-ft_transcendence">![42 Badge](https://github.com/LaOuede/42-project-badges/blob/main/badges/ft_transcendencee.png)</a>
 
 
 ---
@@ -50,6 +52,7 @@
 <h3 align="left">My 42 projects</h3>
 <div align="center">
 
+<a href="https://github.com/LaOuede/42-Inception">![42 Badge](https://github.com/LaOuede/42-project-badges/blob/main/badges/inceptione.png)</a>
 <a href="https://github.com/LaOuede/42-ft_irc">![42 Badge](https://github.com/LaOuede/42-project-badges/blob/main/badges/ft_irce.png)</a>
 <a href="https://github.com/LaOuede/cpp">![42 Badge](https://github.com/LaOuede/42-project-badges/blob/main/badges/cppe.png)</a>
 <a href="https://github.com/LaOuede/MiniRT">![42 Badge](https://github.com/LaOuede/42-project-badges/blob/main/badges/minirte.png)</a>
