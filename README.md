@@ -4,7 +4,7 @@
 <p align="center">I'm an enthusiastic newcomer to programming, embracing the journey of discovery and soaking up knowledge like a sponge! I enjoy the endless possibilities of coding, one line at a time, and I'm eager to create innovative solutions that make a positive impact on our communities.</p>
 
 <div align="center">
- <p align="center">I have successfully completed the Common Core curriculum at 42. This has equipped me with a robust set of programming skills, particularly in C, C++, and system programming. As I transition from the Common Core to specialized branches, I am eager to apply my acquired knowledge in more focused areas of technology and development.</p>
+ <p align="center">I have successfully completed the Common Core curriculum at 42. This has equipped me with a robust set of programming skills, particularly in C and C++. As I transition from the Common Core to specialized branches, I am eager to apply my acquired knowledge in more focused areas of technology and development.</p>
 
  <a href="">![42 Badge](https://github.com/LaOuede/42-project-badges/blob/main/badges/common_coree.png)</a>
 </div>
