@@ -71,7 +71,7 @@ Cheers to [Byaliego](https://github.com/byaliego/42-project-badges) for the badg
 
 ---
   
-<h3 align="left">Other project</h3>
+<h3 align="left">Other projects</h3>
 <div align="center">
 
 <a href="https://github.com/LaOuede/Spectrality_GameJamQC2023">![Spectrality](https://github.com/LaOuede/Spectrality_GameJamQC2023/blob/main/Spectrality.png)</a>
