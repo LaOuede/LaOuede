@@ -79,6 +79,10 @@ Cheers to [Byaliego](https://github.com/byaliego/42-project-badges) for the badg
 <a href="https://github.com/LaOuede/Landing-page">
   <img src="https://github.com/LaOuede/Landing-page/blob/main/images/landing-page.png" alt="Landing page" width="120">
 </a>
+
+<a href="https://github.com/LaOuede/RockPaperScissors">
+  <img src="https://github.com/LaOuede/RockPaperScissors/blob/main/images/rock.png" alt="Rock, Paper, Scissors" width="120">
+</a>
 </div>
 
 ---
