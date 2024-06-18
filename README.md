@@ -74,14 +74,19 @@ Cheers to [Byaliego](https://github.com/byaliego/42-project-badges) for the badg
 <h3 align="left">Other projects</h3>
 <div align="center">
 
-<a href="https://github.com/LaOuede/Spectrality_GameJamQC2023">![Spectrality](https://github.com/LaOuede/Spectrality_GameJamQC2023/blob/main/Spectrality.png)</a>
+<a href="https://github.com/LaOuede/Spectrality_GameJamQC2023">![Spectrality](https://github.com/LaOuede/Spectrality_GameJamQC2023/blob/main/Spectrality.png)
+</a>
 
-<a href="https://github.com/LaOuede/Landing-page">
-  <img src="https://github.com/LaOuede/Landing-page/blob/main/images/landing-page.png" alt="Landing page" width="120">
+<a href="https://github.com/LaOuede/Calculator">
+  <img src="https://github.com/LaOuede/Calculator/blob/main/images/icon.png" alt="Calculator" width="111">
 </a>
 
 <a href="https://github.com/LaOuede/RockPaperScissors">
   <img src="https://github.com/LaOuede/RockPaperScissors/blob/main/images/rock.png" alt="Rock, Paper, Scissors" width="120">
+</a>
+
+<a href="https://github.com/LaOuede/Landing-page">
+  <img src="https://github.com/LaOuede/Landing-page/blob/main/images/landing-page.png" alt="Landing page" width="120">
 </a>
 </div>
 
