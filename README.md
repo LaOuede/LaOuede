@@ -78,11 +78,7 @@ Cheers to [Byaliego](https://github.com/byaliego/42-project-badges) for the badg
 </a>
 
 <a href="https://github.com/LaOuede/Calculator">
-  <img src="https://github.com/LaOuede/Calculator/blob/main/images/icon.png" alt="Calculator" width="111">
-</a>
-
-<a href="https://github.com/LaOuede/RockPaperScissors">
-  <img src="https://github.com/LaOuede/RockPaperScissors/blob/main/images/rock.png" alt="Rock, Paper, Scissors" width="120">
+  <img src="https://github.com/LaOuede/Calculator/blob/main/images/Calculator.png" alt="Calculator" width="111">
 </a>
 
 <a href="https://github.com/LaOuede/Landing-page">
