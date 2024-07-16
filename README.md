@@ -77,6 +77,10 @@ Cheers to [Byaliego](https://github.com/byaliego/42-project-badges) for the badg
 <a href="https://github.com/LaOuede/Spectrality_GameJamQC2023">![Spectrality](https://github.com/LaOuede/Spectrality_GameJamQC2023/blob/main/Spectrality.png)
 </a>
 
+<a href="https://github.com/LaOuede/Restaurant-Page">
+  <img src="https://github.com/LaOuede/Restaurant-Page/blob/main/dist/images/restaurant-page.png" alt="Restaurant Page" width="120">
+</a>
+
 <a href="https://github.com/LaOuede/TicTacToe">
   <img src="https://github.com/LaOuede/TicTacToe/blob/main/images/tictactoe.png" alt="Tic Tac Toe" width="120">
 </a>
