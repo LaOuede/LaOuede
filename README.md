@@ -131,5 +131,6 @@ Cheers to [Byaliego](https://github.com/byaliego/42-project-badges) for the badg
 <a href="https://42quebec.com" target="_blank" rel="noreferrer"> <img src="https://img2.gratispng.com/20180420/osw/kisspng-0-school-college-42-silicon-valley-university-5ad9e24250ea87.8161795615242286743314.jpg" alt="42" width="40" height="40"/> </a>
 <a href="https://openclassrooms.com/fr/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/5389533?s=200&v=4" alt="openclassrooms" width="40" height="40"/> </a>
 <a href="https://pll.harvard.edu/course/cs50-introduction-computer-science" target="_blank" rel="noreferrer"> <img src="https://github.com/LaOuede/LaOuede/assets/114024436/7ab01ae3-73ff-484f-b5e4-510bb79b0ef7" alt="cs50" width="40" height="40"/> </a>
-</p>
+<a href="https://github.com/LaOuede/My-Odin-Project-Odyssey" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/74deeb7d-be98-4d48-92b5-7275931d5919" alt="cs50" width="40" height="40"/> </a>
+
 
