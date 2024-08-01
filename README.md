@@ -39,6 +39,9 @@
 <div align="center">
  
 <a href="https://github.com/LaOuede/Pro-Bono">![CentrePediatrieSociale](https://github.com/LaOuede/Pro-Bono/blob/main/CentrePediatrieSociale.png)</a>
+<a href="https://github.com/LaOuede/My-Odin-Project-Odyssey">
+  <img src="https://github.com/LaOuede/My-Odin-Project-Odyssey/blob/main/images/odin-project.png" alt="OdinProject" height="148" />
+</a>
 
 ---
 
