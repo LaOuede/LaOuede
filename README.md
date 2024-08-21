@@ -17,7 +17,7 @@
 - ... 🔭 currently working on &nbsp;<a target="_blank" href="https://github.com/LaOuede/Pro-Bono">Au-delà du code</a> and &nbsp;<a target="_blank" href="https://github.com/LaOuede/My-Odin-Project-Odyssey">The Odin Project</a>
 - ... 🌱 learning JavaScript, React and Node.js
 - 💬 Connect with me in 🇫🇷 🇬🇧
-- 🎲 Always open to talk about boardgames 🎲 and Magic: The Gathering ✨
+- 🎲 Always open to talk about boardgames 🎲, Magic: The Gathering ✨ & Flesh and Blood ⚔️
 - 📫 Reach me at <b>gwenola.leroux@gmail.com<b>
 
  
