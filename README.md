@@ -14,7 +14,7 @@
 <h3 align="left">About me</h3>
 
 - 💻 I’m a programming student at &nbsp;<a target="_blank" href="https://42quebec.com/">42 Québec</a>
-- ... 🔭 currently working on &nbsp;<a target="_blank" href="https://github.com/LaOuede/Pro-Bono">Au-delà du code</a> and &nbsp;<a target="_blank" href="https://github.com/LaOuede/My-Odin-Project-Odyssey">The Odin Project</a>
+- ... 🔭 currently working on &nbsp;<a target="_blank" href="https://github.com/LaOuede/My-Odin-Project-Odyssey">The Odin Project</a>
 - ... 🌱 learning JavaScript, React and Node.js
 - 💬 Connect with me in 🇫🇷 🇬🇧
 - 🎲 Always open to talk about boardgames 🎲, Magic: The Gathering ✨ & Flesh and Blood ⚔️
@@ -38,7 +38,6 @@
 <h3 align="left">Ongoing projects</h3>
 <div align="center">
  
-<a href="https://github.com/LaOuede/Pro-Bono">![CentrePediatrieSociale](https://github.com/LaOuede/Pro-Bono/blob/main/CentrePediatrieSociale.png)</a>
 <a href="https://github.com/LaOuede/My-Odin-Project-Odyssey">
   <img src="https://github.com/LaOuede/My-Odin-Project-Odyssey/blob/main/images/odin-project.png" alt="OdinProject" height="148" />
 </a>
@@ -76,6 +75,7 @@ Cheers to [Byaliego](https://github.com/byaliego/42-project-badges) for the badg
   
 <h3 align="left">Other projects</h3>
 <div align="center">
+ 
 
 <a href="https://github.com/LaOuede/Spectrality_GameJamQC2023">![Spectrality](https://github.com/LaOuede/Spectrality_GameJamQC2023/blob/main/Spectrality.png)
 </a>
@@ -103,6 +103,8 @@ Cheers to [Byaliego](https://github.com/byaliego/42-project-badges) for the badg
 <a href="https://github.com/LaOuede/Landing-page">
   <img src="https://github.com/LaOuede/Landing-page/blob/main/images/landing-page.png" alt="Landing page" width="120">
 </a>
+
+<a href="https://github.com/LaOuede/Pro-Bono">![CentrePediatrieSociale](https://github.com/LaOuede/Pro-Bono/blob/main/CentrePediatrieSociale.png)</a>
 </div>
 
 ---
