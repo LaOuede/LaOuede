@@ -13,7 +13,8 @@
 
 <h3 align="left">About me</h3>
 
-- 💻 I’m a programming student at &nbsp;<a target="_blank" href="https://42quebec.com/">42 Québec</a>
+- 💻 I’m a trainee programmer
+- ... 🚀 former student at &nbsp;<a target="_blank" href="https://42quebec.com/">42 Québec</a>
 - ... 🔭 currently working on &nbsp;<a target="_blank" href="https://github.com/LaOuede/My-Odin-Project-Odyssey">The Odin Project</a>
 - ... 🌱 learning JavaScript, React and Node.js
 - 💬 Connect with me in 🇫🇷 🇬🇧
