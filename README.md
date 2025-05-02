@@ -35,15 +35,6 @@
 
 ---
   
-<h3 align="left">Ongoing projects</h3>
-<div align="center">
- 
-<a href="https://github.com/LaOuede/My-Odin-Project-Odyssey">
-  <img src="https://github.com/LaOuede/My-Odin-Project-Odyssey/blob/main/images/odin-project.png" alt="OdinProject" height="148" />
-</a>
-
----
-  
 <h3 align="left">My 42 projects</h3>
 <div align="center">
 
