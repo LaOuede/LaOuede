@@ -13,10 +13,9 @@
 
 <h3 align="left">About me</h3>
 
-- 💻 I’m a trainee programmer
+- 💻 I’m a programmer
 - ... 🚀 former student at &nbsp;<a target="_blank" href="https://42quebec.com/">42 Québec</a>
-- ... 🔭 currently working on &nbsp;<a target="_blank" href="https://github.com/LaOuede/My-Odin-Project-Odyssey">The Odin Project</a>
-- ... 🌱 learning JavaScript, React and Node.js
+- ... 🌱 learning Java, Gosu, JavaScript, React and Node.js
 - 💬 Connect with me in 🇫🇷 🇬🇧
 - 🎲 Always open to talk about boardgames 🎲, Magic: The Gathering ✨ & Flesh and Blood ⚔️
 - 📫 Reach me at <b>gwenola.leroux@gmail.com<b>
